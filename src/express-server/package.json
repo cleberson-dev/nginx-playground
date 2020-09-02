@@ -1,5 +1,5 @@
 {
-  "name": "js-proxy",
+  "name": "express-server",
   "version": "1.0.0",
   "main": "index.js",
   "author": "<cleberson.dev@gmail.com>",
